@@ -26,7 +26,7 @@ I am particularly interested in:
 - 🛰️ Digital Twin & Dynamic Modeling for Mechanical Systems
 
 📧 Email: wang_bin@whut.edu.cn  
-🌍 Website: [DrWANG_Bin.github.io](https://github.com/WHUTBIN/DrWANG_Bin.github.io)
+🌍 Website: https://whutbin.github.io/Dr.WANG_Bin.github.io/
 
 ---
 
