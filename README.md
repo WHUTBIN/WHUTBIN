@@ -1,18 +1,4 @@
-## Hi there 👋
 
-<!--
-**WHUTBIN/WHUTBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # 👋 Hello
 
@@ -27,6 +13,12 @@ I am particularly interested in:
 
 📧 Email: wang_bin@whut.edu.cn  
 🌍 Website: https://whutbin.github.io/Dr.WANG_Bin.github.io/
+
+
+🔗 Academic Profiles:  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=[YOUR_ID_HERE](https://scholar.google.com/citations?user=qZyYl8MAAAAJ&hl=en))    
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/[YOUR_ID_HERE](https://www.researchgate.net/profile/Bin-Wang-wangbin?ev=hdr_xprf))
+
 
 ---
 
@@ -43,6 +35,12 @@ I am particularly interested in:
 - Multimodal-PHM
 - LLM-PHM
 - Sensor Anomaly Detection
+
+---
+## 📂 Featured Repositories
+
+- [**BINWANG-Ph.D.-journey-scenery**](https://github.com/WHUTBIN/BINWANG-Ph.D.-journey-scenery)  
+  Records my doctoral journey and thoughts on research in PHM and mechanical diagnostics.
 
 ---
 
