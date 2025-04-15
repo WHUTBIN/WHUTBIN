@@ -58,9 +58,9 @@ I am particularly interested in:
 
 ## 🎯 Contributions
 
-- Member of  WHUT & POLIMI PHM Research Group
+- Member of China Navigation Society
 - Member of China Society of Naval Architecture and Marine Engineering
-- Working with [Prof. Zio] on data-driven PHM
+- 
 - 
 
 ![GitHub followers](https://img.shields.io/github/followers/WHUTBIN?style=social)
