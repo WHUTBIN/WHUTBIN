@@ -21,9 +21,9 @@ I am a Assitant Professor at Wuhan University of Technology, focusing on Prognos
 I am particularly interested in:
 
 - 🔍 Anomaly Detection and Fault Diagnosis  
-- 🔧 Fault Tolerance and Perception System Reliability  
+- ⚙️ Fault Tolerance and Perception System Reliability  
 - 🧠 Multi-modal Condition Representation and RUL Prediction  
-- 🛰️ Digital Twin & Dynamic Modeling for Mechanical Systems
+- 🌐 Digital Twin & Dynamic Modeling for Mechanical Systems
 
 📧 Email: wang_bin@whut.edu.cn  
 🌍 Website: https://whutbin.github.io/Dr.WANG_Bin.github.io/
@@ -38,7 +38,7 @@ I am particularly interested in:
 
 ---
 
-## 📚 Review Papers and Notes (Coming soon...)
+## 📚 Research Papers and Notes (Coming soon...)
 
 - Multimodal-PHM
 - LLM-PHM
