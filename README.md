@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello
 
-I am a Ph.D. candidate at Wuhan University of Technology, focusing on Prognostics and Health Management (PHM) of Marine Power Systems.
+I am a Assitant Professor at Wuhan University of Technology, focusing on Prognostics and Health Management (PHM) of Marine Power Systems.
 
 I am particularly interested in:
 
@@ -25,7 +25,7 @@ I am particularly interested in:
 - 🧠 Multi-modal Condition Representation and RUL Prediction  
 - 🛰️ Digital Twin & Dynamic Modeling for Mechanical Systems
 
-📧 Email: your_email@example.com  
+📧 Email: wang_bin@whut.edu.cn  
 🌍 Website: [DrWANG_Bin.github.io](https://github.com/WHUTBIN/DrWANG_Bin.github.io)
 
 ---
@@ -42,24 +42,26 @@ I am particularly interested in:
 
 - Multimodal-PHM
 - LLM-PHM
-- Domain Adaptation in Fault Diagnosis
+- Sensor Anomaly Detection
 
 ---
 
 ## 🧪 Datasets
 
-- **[WHUTGearbox-dataset]**(链接占位)  
-  Dataset for gear fault diagnosis in marine gearboxes.
+- **[WHUTPipeline-dataset]**(链接占位)  
+  Dataset for Ship Freshwater Pipeline Health Data.
 
-- **[WHUTBearing-dataset]**(链接占位)  
-  Bearing fault dataset from marine propulsion systems.
+- **[WHUTDredging-dataset]**(链接占位)  
+ Dredger Dredging System Dataset.
 
 ---
 
 ## 🎯 Contributions
 
-- Member of HUST & WHUT PHM Research Group
-- Working with [Prof. XXX] on data-driven fault diagnosis
+- Member of  WHUT & POLIMI PHM Research Group
+- Member of China Society of Naval Architecture and Marine Engineering
+- Working with [Prof. Zio] on data-driven PHM
+- 
 
 ![GitHub followers](https://img.shields.io/github/followers/WHUTBIN?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=WHUTBIN&color=blue)
