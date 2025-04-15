@@ -61,3 +61,5 @@ I am particularly interested in:
 - Member of HUST & WHUT PHM Research Group
 - Working with [Prof. XXX] on data-driven fault diagnosis
 
+![GitHub followers](https://img.shields.io/github/followers/WHUTBIN?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=WHUTBIN&color=blue)
