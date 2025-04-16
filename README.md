@@ -17,7 +17,7 @@ I am particularly interested in:
 
 🔗 Academic Profiles:  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=[YOUR_ID_HERE](https://scholar.google.com/citations?user=qZyYl8MAAAAJ&hl=en))    
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/[[YOUR_ID_HERE](https://www.researchgate.net/profile/Bin-Wang-wangbin?ev=hdr_xprf))]
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/[[YOUR_ID_HERE]([https://www.researchgate.net/profile/Bin-Wang-wangbin?ev=hdr_xprf](https://www.researchgate.net/profile/Bin-Wang-wangbin?ev=hdr_xprf)))]
 
 
 ---
