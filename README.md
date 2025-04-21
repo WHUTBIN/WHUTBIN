@@ -46,7 +46,7 @@ I am particularly interested in:
 
 ## 🧪 Datasets
 
-- **[WHUTPipeline-dataset]**(链接占位)  
+- **[WHUTPipeline-dataset]**(https://github.com/WHUTBIN/WHUTpipelines-dataset)
   Dataset for Ship Freshwater Pipeline Health Data.
 
 - **[WHUTDredging-dataset]**(链接占位)  
