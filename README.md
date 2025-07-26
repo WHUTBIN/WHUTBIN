@@ -25,8 +25,9 @@ I am particularly interested in:
 ## 📘 Research Projects
 
 ### 🔬 PHM of Marine Systems
-- [**Innovative-Research-Team-for-Health-Management-of-Marine-Power-Systems**](https://github.com/WHUTBIN/Innovative-Research-Team-for-Health-Management-of-Marine-Power-Systems)  
-  船舶动力系统的健康管理与智能运维创新研究团队
+- [**M-DR Laboratory（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/
+)  
+ 
 
 ---
 
