@@ -25,7 +25,7 @@ I am particularly interested in:
 ## 📘 Research Projects
 
 ### 🔬 PHM of Marine Systems
-- [**M-DR Laboratory（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/
+- [**MDRlab（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/
 )  
  
 
