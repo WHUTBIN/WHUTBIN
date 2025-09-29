@@ -7,8 +7,8 @@ I am a Assitant Professor at Wuhan University of Technology, focusing on Prognos
 I am particularly interested in:
 
 - 🔍 Anomaly Detection and Fault Diagnosis  
-- ⚙️ Fault Tolerance and Perception System Reliability  
-- 🧠 Multi-modal Condition Representation and RUL Prediction  
+- ⚙️ Fault Tolerance Control  
+- 🧠 Degradation Model and RUL Prediction  
 - 🌐 Digital Twin & Dynamic Modeling for Mechanical Systems
 
 📧 Email: wang_bin@whut.edu.cn  
@@ -25,17 +25,19 @@ I am particularly interested in:
 ## 📘 Research Projects
 
 ### 🔬 PHM of Marine Systems
-- [**MDRlab（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/
-)  
- 
+ [**MDRlab（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/)  
+
+### 🔬 POLIMI SOE Fellowship (Horizon Europe Marie Skłodowska-Curie Actions-SEAL OF EXCELLENCE)
+Reliable Perception | “A Framework for Enhancing the Operational Reliability of High-End Equipment Perception Systems
+-
 
 ---
 
 ## 📚 Research Papers and Notes (Coming soon...)
 
-- Multimodal-PHM
-- LLM-PHM
-- Sensor Anomaly Detection
+#### - Anomaly Detection and Fault Diagnosis 
+1.Wang, Bin, Enrico Zio, Xiuhan Chen, Hanhua Zhu, Yunhua Guo, and Shidong Fan. "Reliability improvement of the dredging perception system: A sensor fault-tolerant strategy." Reliability Engineering & System Safety 247 (2024): 110134. https://doi.org/10.1016/j.ress.2024.110134 
+
 
 ---
 ## 📂 Featured Repositories
