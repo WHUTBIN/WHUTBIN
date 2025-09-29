@@ -28,7 +28,8 @@ I am particularly interested in:
  [**MDRlab（Marine Mechanical Dynamics and Reliability Laboratory）**](https://whutbin.github.io/M-DR-Lab.github.io/)  
 
 ### 🔬 POLIMI SOE Fellowship (Horizon Europe Marie Skłodowska-Curie Actions-SEAL OF EXCELLENCE)
-Reliable Perception | “A Framework for Enhancing the Operational Reliability of High-End Equipment Perception Systems
+     
+     Reliable Perception | “A Framework for Enhancing the Operational Reliability of High-End Equipment Perception Systems
 -
 
 ---
