@@ -11,8 +11,7 @@ I am particularly interested in:
 - 🧠 Degradation Model and RUL Prediction  
 - 🌐 Digital Twin & Dynamic Modeling for Mechanical Systems
 
-📧 Email: wang_bin@whut.edu.cn  
-   ###### bin.wang@polimi.it
+📧 Email: wang_bin@whut.edu.cn          bin.wang@polimi.it
 🌍 Website: https://whutbin.github.io/Dr.WANG_Bin.github.io/
 
 
