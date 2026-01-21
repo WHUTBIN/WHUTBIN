@@ -65,7 +65,7 @@ I am particularly interested in:
 
 - Member of China Navigation Society
 - Member of China Society of Naval Architecture and Marine Engineering
-- 
+- Member of IEEE
 - 
 
 ![GitHub followers](https://img.shields.io/github/followers/WHUTBIN?style=social)
