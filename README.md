@@ -6,10 +6,11 @@ I am a Assitant Professor at Wuhan University of Technology, focusing on Prognos
 
 I am particularly interested in:
 
-- 🔍 Anomaly Detection and Fault Diagnosis  
-- ⚙️ Fault Tolerance Control  
-- 🧠 Degradation Model and RUL Prediction  
+- 🔍 Virtual sensing & Soft sensor  
+- ⚙️ Fault Diagnosis & Fault Tolerance Control  
+- 🧠 Anomaly Detection and RUL Prediction  
 - 🌐 Digital Twin & Dynamic Modeling for Mechanical Systems
+
 
 📧 WUT-Email: wang_bin@whut.edu.cn     
 📧 POLIMI-Email: bin.wang@polimi.it
