@@ -39,7 +39,7 @@ I am particularly interested in:
 
 ## 📚 Research Papers and Notes (Coming soon...)
 
-#### - Anomaly Detection and Fault Diagnosis 
+#### - [HRSFT] Sensor Fault Tolerance
 - 1.Wang, Bin, Enrico Zio, Xiuhan Chen, Hanhua Zhu, Yunhua Guo, and Shidong Fan. "Reliability improvement of the dredging perception system: A sensor fault-tolerant strategy." Reliability Engineering & System Safety 247 (2024): 110134. https://doi.org/10.1016/j.ress.2024.110134 
 
 
