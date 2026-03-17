@@ -2,7 +2,7 @@
 
 # 👋 Hello
 
-I am a Assitant Professor at Wuhan University of Technology, focusing on Prognostics and Health Management (PHM) of Marine Power Systems.
+I am a Postdoctoral Researcher at Politecnico di Milano, focusing on Prognostics and Health Management (PHM) of Marine & Ocean Power Systems.
 
 I am particularly interested in:
 
