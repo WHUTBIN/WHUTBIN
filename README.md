@@ -42,7 +42,10 @@ I am particularly interested in:
 #### - [HRSFT] Sensor Fault Tolerance
 - 1.Wang, Bin, Enrico Zio, Xiuhan Chen, Hanhua Zhu, Yunhua Guo, and Shidong Fan. "Reliability improvement of the dredging perception system: A sensor fault-tolerant strategy." Reliability Engineering & System Safety 247 (2024): 110134. https://doi.org/10.1016/j.ress.2024.110134 
 
+#### - [PRT-CP] Trustworthy Virtual Sensing
+- 2.Wang, Bin, Enrico Zio. "Trustworthy Virtual Sensing via Physics-Residual Transformers and Conformal Prediction." 2026. 
 
+  
 ---
 ## 📂 Featured Repositories
 
